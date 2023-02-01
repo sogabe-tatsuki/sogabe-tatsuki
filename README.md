@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogabe-tatsuki)](https://github.com/sogabe-tatsuki/github-readme-stats)
+
 <!--
 **sogabe-tatsuki/sogabe-tatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
